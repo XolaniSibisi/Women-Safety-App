@@ -1,0 +1,46 @@
+Please note: you cannot run the proj on phone now since the team viewer session is only for setup and instructions. Setup is done only on one machine
+
+
+sending files for reference
+
+Android Project Structure this file will help with the Android Studio file structure. for eg: where are the java files,layout files,images etc
+
+------------>
+
+how to run the apk on android device:
+2 ways :
+1. This is how to build the apk file. go to build-> build apk, copy paste these apk files in your phone and install them from your phone
+2. connect through usb: 
+second way is to directly connect the android device through usb to the pc and run using green triangular button in android studio. You also need to enable the developer mode in the android device. You will find those steps on Google abou how to enable the developer mode in your specific device.
+We do not recommend running the project in an emulator. It does not have all the features that of a real android device.
+
+
+project is imported and successfully build. I also generated apk file.
+
+You will find them in C:Workspace/projectname/app/build/outputs/apk/debug/app-debug.apk
+app-debug.apk is the apk file
+
+i also opened the apk folder for one of the project
+copy paste these apk files in your phone and install them from your phone after this session.
+and you are good to go
+
+
+Now what you can do it. Install the app on your phone and see how it works.
+
+And after you understand the workflow completetly then you can jump to the code, it becomes easier for you to figure out whats in the code.
+
+I know there may occur many doubts. keep on making a note of all your doubts in a text file. And send me all your doubts at once on skype and i'll answer all of them and send back to you
+
+do u hv any doubts related to setup?
+Nope i don't have any doubt but i wanted to know about the database setup
+which database setup?
+I need a database wh
+SharedPreferences is used to store data here like phone numbers etc
+okay so how can i see when the data is stored for example if someone says to me show me where all this data is captured
+Read more about SharedPrefernce you will get to know 
+but to show the data you can either log or see the sharedpref file if connected to phone on android studio
+about that how its done you need to research about the topic SharedPreferences in android 
+Okay i will check it
+Your setup with instructions is complete. If you need to go through the instructions again please check them in this text file and do as guided. If any issues you can contact as mentioned above
+Ill close this session now
+Okay thank you
